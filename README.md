@@ -1,2 +1,2 @@
-# Leon-PSD-Agency-Template
+# Leon
 HTML &amp; CSS template
